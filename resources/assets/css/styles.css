@@ -1,0 +1,12 @@
+:root {
+    --primary-color: #ff9000;
+    --secondary-color: #e2e2e2;
+}
+* {
+    box-sizing: border-box;
+    font-size: 12px;
+    font-family: sans-serif;
+}
+body {
+    margin: 0;
+}
