@@ -17,7 +17,7 @@ return [
 	// 'google_recaptcha_secret'	=> env('GOOGLE_RECAPTCHA_SECRET_KEY', ''),
 	// 'fb_app_token' => env('FB_APP_TOKEN', ''),
 	// 'fb_reactions_urls' => env('FB_REACTIONS_URLS', ''),
+	// 'bundle_ver' => $pckConfigs['aliasConfigs']['bundleVer'],
 	'scripts_ver' => $pckConfigs['aliasConfigs']['scriptsVer'],
 	'styles_ver' => $pckConfigs['aliasConfigs']['stylesVer'],
-	'bundle_ver' => $pckConfigs['aliasConfigs']['bundleVer'],
 ];

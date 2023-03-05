@@ -26,7 +26,7 @@ const processors = [
     autoprefixer,
 ];
 const packageConfigs = require('./package.json');
-const { scriptsVer, stylesVer } = packageConfigs.palmConfigs;
+const { scriptsVer, stylesVer } = packageConfigs.aliasConfigs;
 
 const destinationFiles = [
     'public/assets/js/scripts.min.js',

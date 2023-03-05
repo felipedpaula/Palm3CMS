@@ -10,8 +10,3 @@
 body {
     margin: 0;
 }
-.top {
-    height: 80px;
-    display: flex;
-    background-color: var(--primary-color);
-}
